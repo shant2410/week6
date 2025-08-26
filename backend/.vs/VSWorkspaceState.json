@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DeptApi",
+    "\\DeptApi\\Controllers",
+    "\\DeptApi\\Data",
+    "\\DeptApi\\Models",
+    "\\DeptApi\\Security"
+  ],
+  "PreviewInSolutionExplorer": false
+}

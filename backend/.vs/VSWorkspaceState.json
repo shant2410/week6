@@ -7,5 +7,6 @@
     "\\DeptApi\\Models",
     "\\DeptApi\\Security"
   ],
+  "SelectedNode": "\\DeptApi\\DeptApi.http",
   "PreviewInSolutionExplorer": false
 }
